@@ -4,5 +4,6 @@
     "project_description": "add an app to analyse new ethereum blockchain data",
     "creation_time": "2024-07-31 19:02:28.693093",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The image features a vibrant, otherworldly scenery with a color scheme dominated by pinks and purples, creating a surreal, dreamy atmosphere with a touch of sci-fi style. The composition includes a large glowing planet with two moons, jagged mountains, and reflective water, enhancing the ethereal feel."
 }
