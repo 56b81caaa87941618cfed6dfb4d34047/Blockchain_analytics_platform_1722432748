@@ -16,7 +16,11 @@ Vue.component("simple_footer_component_1722432752", {
                 <div class="flex">
                     <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
                         Unlock the power of Ethereum data with EtherView. Our cutting-edge analytics platform provides real-time insights into the latest blockchain transactions and activities. Stay ahead of the curve with our user-friendly tools and customizable dashboards. Powered by decentralized technology, EtherView ensures transparency and trustworthiness in your data analysis endeavors.
-                    </div>
+                        Unlock the power of Ethereum data with EtherView. Our cutting-edge analytics platform provides real-time insights into the latest blockchain transactions and activities. Stay ahead of the curve with our user-friendly tools and customizable dashboards. Powered by decentralized technology, EtherView ensures transparency and trustworthiness in your data analysis endeavors.
+                        
+                        <button class="mt-4 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                            Hello World
+                        </button>
                 </div>
             </div>
         </footer> 
