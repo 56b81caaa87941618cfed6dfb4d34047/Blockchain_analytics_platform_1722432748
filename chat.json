@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a 'Refresh Data' button to update blockchain information\", \"checked\": true}, {\"feature\": \"Implement a 'Dark/Light Mode' toggle for user preference\", \"checked\": false}, {\"feature\": \"Include a 'Search Transactions' field for quick lookup\", \"checked\": true}, {\"feature\": \"Offer 'Filter by Date/Amount' options for transaction history\", \"checked\": false}, {\"feature\": \"Add 'Export Data' button to download blockchain reports\", \"checked\": true}], \"input_token_count\": 216, \"output_token_count\": 106, \"time_taken\": \"0:00:07.442500\"}",
+        "message_id": "guest31072024153602",
+        "timestamp": "31072024153611",
+        "component_file_name": "simple_cta_component_1722432752",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be positioned on the app's interface?\", \"option1\": \"At the top of the main screen\", \"option2\": \"At the bottom of the main screen\"}, {\"question 2\": \"What function should the 'Hello World' button perform when clicked?\", \"option1\": \"Display a popup message saying 'Hello World'\", \"option2\": \"Navigate to a new screen with 'Hello World' content\"}], \"input_token_count\": 262, \"output_token_count\": 109, \"time_taken\": \"0:00:03.221773\"}",
         "message_id": "guest31072024153602",
