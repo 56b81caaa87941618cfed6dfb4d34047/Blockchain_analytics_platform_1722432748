@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"How do you prefer the navbar to behave on different screen sizes (responsive behavior)?\", \"option1\": \"Collapse into a hamburger menu on smaller screens\", \"option2\": \"Remain fully expanded on all screen sizes\"}, {\"question 2\": \"Would you like any specific styling or theme for the navbar to match your app's design?\", \"option1\": \"Yes, please match the app's existing color scheme and style\", \"option2\": \"No specific styling, use a standard design\"}], \"input_token_count\": 266, \"output_token_count\": 115, \"time_taken\": \"0:00:10.219963\"}",
+        "message_id": "guest31072024153952",
+        "timestamp": "31072024154004",
+        "component_file_name": "simple_hero_component_1722432752",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Alright, I'll add a navbar with .navlink home, about, and contact.",
         "message_id": "guest31072024153952",
